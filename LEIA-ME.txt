@@ -1,0 +1,2 @@
+QÆL HYDRA v0.2 PWA
+Para instalar na tela inicial, hospede os arquivos juntos em um endereço HTTPS (qualquer hospedagem estática) e abra no Chrome Android > menu > Instalar app. Não é necessário build, npm ou API. Depois de carregado, funciona offline. Abrir index.html como arquivo local não oferece instalação PWA confiável.
